@@ -1,0 +1,5 @@
+<td align="left"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></span></span>&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a>
+</td><td>6.37</td>
+
+Romania</a></td><td>6.37</td>
+([as])</a></td><td>(n/a|\d+.\d+)</td>
